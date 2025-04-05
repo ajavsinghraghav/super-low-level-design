@@ -1,0 +1,16 @@
+Low_Level_design digital wallet System service;
+
+Functional  of requirnments;
+1-System should allow user to create an acoount and manage their personal
+information.
+2-user should be able to add and remove payment method. such as credit cards or bank accounts.
+3-digital wallet system should be able to support fund transfer between users and to external accounts
+or between source and destination account.
+4-system should be able to handle transaction history and provide
+  a statement of transactions.
+5- digital wallet should support multiple currencies and perform currencies conversions.
+6-System should ensure ssecurity of user data and transaction he made;
+7-Digital wallet should be able to handle multiple concureent transactions and ensure data consistency.
+8-System should scalable enough of handle large volume of data.
+9-System should be highly available , and consistent .
+10- System should be able to send notification to user  for any important event like , fund transfer, new offer.
