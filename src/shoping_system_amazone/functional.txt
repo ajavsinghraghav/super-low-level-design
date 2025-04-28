@@ -5,5 +5,5 @@
 5-the system should support multiple payment method and ensure secure transaction
 6-sytem should be able to handle concurrent user requests and ensure data consistency
 7-The system should be able  scalble to handle a large number of the products and users
-9-Ssytem should provide user friendly interface for seamless shopping experience
-10-syem should be able send notification to user once the product deleviered;
+9-Sytem should provide user friendly interface for seamless shopping experience
+10-system should be able send notification to user once the product deleviered;
